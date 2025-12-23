@@ -19,11 +19,11 @@ We like to pretend we’re lone geniuses, but we’re actually just a giant, glo
 
 ### 🚀 About Me
 
-🔭 **Giving Back:** I’m currently tutoring at **Hue SOS village for orphans**, helping the next generation find their "ladder."
-👨‍💻 **Portfolio:** All of my projects are archived at [My Padlet](https://padlet.com/quanthebear/ph-m-h-ng-qu-n-l1hlgvzhrxqeoj5o)
-💬 **Ask me about:** Competitive programming algorithms, IELTS, SAT, or how to dial in the perfect **pedalboard tone**.
-⚡ **Fun fact:** I made a surprising amount of money from Roblox when I was in secondary school.
-📄 **Resume:** [View my experiences here](https://docs.google.com/document/d/1IVhDZ7JcxJHdCLjzPqJVJJPKeli3h1glJiCqLtvohsk/edit?usp=sharing)
+🔭 **Giving Back:** I’m currently tutoring at **Hue SOS village for orphans**, helping the next generation find their "ladder."  
+👨‍💻 **Portfolio:** All of my projects are archived at [My Padlet](https://padlet.com/quanthebear/ph-m-h-ng-qu-n-l1hlgvzhrxqeoj5o)  
+💬 **Ask me about:** Competitive programming algorithms, IELTS, SAT, or how to dial in the perfect **pedalboard tone**.  
+⚡ **Fun fact:** I made a surprising amount of money from Roblox when I was in secondary school.  
+📄 **Resume:** [View my experiences here](https://docs.google.com/document/d/1IVhDZ7JcxJHdCLjzPqJVJJPKeli3h1glJiCqLtvohsk/edit?usp=sharing)  
 
 ---
 
