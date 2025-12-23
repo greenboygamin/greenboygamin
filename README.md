@@ -13,7 +13,7 @@ If you’re looking at my contribution graph and wondering if I just discovered 
 
 But here’s the thing: behind this "empty" profile is a three-year grind that took me from **"How do I print Hello World?"** to a seat on the **National Informatics Olympiad team**. Why the late arrival? Because I’ve spent the last 1,000 days realizing that code isn't a solo sport. 
 
-We like to pretend we’re lone geniuses, but we’re actually just a giant, global group project. It’s a cycle where the veteran’s five-minute fix saves a novice’s five-day breakdown. It’s where the "smarter" people don't just build software; they build the **ladders** for the rest of us to climb. I finally realized that I’ve been standing on those ladders for three years—it’s about time I started building some of my own. I’m moving from being a professional lurker to a contributor to the legacy.
+We like to pretend we’re lone geniuses, but we’re actually just a giant, global group project. It’s a cycle where the veteran’s five-minute fix saves a novice’s five-day breakdown. It’s where the oustanding ones don't just build software; they build the **ladders** for the rest of us to climb. I finally realized that I’ve been standing on those ladders for three years, it’s about time I started building some of my own. I’m moving from being a professional lurker to a contributor to the legacy.
 
 ---
 
