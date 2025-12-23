@@ -9,7 +9,7 @@
 
 ### 📖 My story
 
-If you’re looking at my contribution graph and wondering if I just discovered electricity last week—I get it. It’s a bit of a ghost town until late 2025. 
+If you’re looking at my contribution graph and wondering if I just discovered electricity last week, I get it. It’s a bit of a ghost town until late 2025. 
 
 But here’s the thing: behind this "empty" profile is a three-year grind that took me from **"How do I print Hello World?"** to a seat on the **National Informatics Olympiad team**. Why the late arrival? Because I’ve spent the last 1,000 days realizing that code isn't a solo sport. 
 
