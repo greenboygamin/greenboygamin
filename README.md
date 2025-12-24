@@ -34,19 +34,6 @@ We like to pretend we’re lone geniuses, but we’re actually just a giant, glo
   </a> 
 </p>
 
-### 📊 My Stats
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=greenboygamin&theme=radical" alt="greenboygamin" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greenboygamin&show_icons=true&locale=en&layout=compact" alt="greenboygamin" />
-  <img src="https://github-readme-stats.vercel.app/api?username=greenboygamin&show_icons=true&locale=en" alt="greenboygamin" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greenboygamin&" alt="greenboygamin" />
-</p>
-
 ---
 
 ### 🤝 Connect with me
