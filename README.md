@@ -8,20 +8,34 @@
 
 ### About Me
 
-📄 **Resume:** [View my experiences here](https://docs.google.com/document/d/1IVhDZ7JcxJHdCLjzPqJVJJPKeli3h1glJiCqLtvohsk/edit?usp=sharing)  
+📄 **Resume:** [View my experiences here](https://docs.google.com/document/d/1IVhDZ7JcxJHdCLjzPqJVJJPKeli3h1glJiCqLtvohsk/edit?usp=sharing)
 
 ---
 
 ### 🛠 Languages and Tools
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> 
-  </a> 
+
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  </a>
 </p>
 
 ---
 
 ### 🤝 Connect with me
+
 <p align="left">
 <a href="https://fb.com/hongquan.pham.52056223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hongquan.pham.52056223" height="30" width="40" /></a>
 <a href="https://instagram.com/kudo._lvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kudo._lvr" height="30" width="40" /></a>
